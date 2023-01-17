@@ -56,8 +56,8 @@ copyright = "© {year}"
 
 # Controls the navigation
 [[menu.main]]
-  identifier = "About"
-  name = "about"
+  identifier = "about"
+  name = "About"
   title = "About"
   url = "/"
 
